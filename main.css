@@ -1,0 +1,23 @@
+.wrapper{
+  background-color: floralwhite;
+  text-align: center;
+}
+
+.entries{
+  background-color: floralwhite;
+  height: 1000px;
+}
+.entry{
+  padding: 10px;
+
+}
+a{
+  color: brown;
+  text-decoration: none;
+}
+.heading{
+  font-family: arial;
+  font-size: 20px;
+  color: midnightblue;
+  padding: 10px;
+}
