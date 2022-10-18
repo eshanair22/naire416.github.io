@@ -1,13 +1,29 @@
-.background{
-	color: floralwhite;
+.hover1{
+	color: white;
 }
-a{
+.hover1:hover {
+	color: black;
+}
+
+.hover2{
+	color: white;
+}
+.hover2:hover {
+	color: black;
+}
+
+.hover3{
+	color: white;
+}
+.hover3:hover {
+
+	color: black;
+}
+
+.hover4{
 	text-decoration: none;
-	color: brown;
+	color: white;
 }
-.entry{
-	color: brown;
-}
-.date{
-	color: saddlebrown;
+.hover4:hover {
+	color: black;
 }
